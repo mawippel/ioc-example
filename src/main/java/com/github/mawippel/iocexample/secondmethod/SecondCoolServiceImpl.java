@@ -2,6 +2,9 @@ package com.github.mawippel.iocexample.secondmethod;
 
 import org.springframework.stereotype.Service;
 
+/**
+ * CONSTRUCTOR INJECTION 
+ */
 @Service
 public class SecondCoolServiceImpl implements SecondCoolService {
 

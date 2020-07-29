@@ -6,6 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
+/**
+ * CONDITION-BASED INJECTION (Externalized configuration) 
+ */
 @Service
 public class ThirdCoolServiceImpl implements ThirdCoolService {
 	
